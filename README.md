@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/kaijun05">
-    <img src="" alt="Kai Jun" /></a>
+    <img src="assets/name_logo.png" alt="Kai Jun" /></a>
   </a>
 </p>
 
