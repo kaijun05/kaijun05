@@ -43,7 +43,7 @@
 
 <h2>📱 Where to Find Me</h2>
 <p>
-  <a href="www.linkedin.com/in/looi-kai-jun-7aa816360">
+  <a href="https://www.linkedin.com/in/looi-kai-jun-7aa816360" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" >
   </a>
 </p>
